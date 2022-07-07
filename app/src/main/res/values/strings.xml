@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeNote</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="add_note">Add New Note</string>
+    <string name="my_list">My Lists</string>
+    <string name="options">Options</string>
+
+    <string name="all_tab">All</string>
+    <string name="calendar_tab">Calendar</string>
+    <string name="home_tab">Home</string>
+    <string name="work_tab">Work</string>
+
+
+    <string name="shopping_list">Shopping List</string>
+    <string name="eggs">Egg</string>
+    <string name="bread">Bread</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="kiwi">Kiwi</string>
+
+    <string name="to_do_list">To Do List</string>
+    <string name="diary">My Secret Diary</string>
+    <string name="adopt">Adopt a kitty</string>
+    <string name="train">Train Schedule</string>
+    <string name="homework">Homework</string>
+
+</resources>
